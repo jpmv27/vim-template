@@ -3,7 +3,7 @@ This is a FORK of https://github.com/aperezdc/vim-template
 Changes:
 
 - Add .gitignore for doc/tags
-- Fix issue with TemplateHere into empty buffer deleting last line of template
+- Fix issue with TemplateHere into empty buffer deleting last line of template (merged upstream)
 
 Changes are licensed under the same terms as the original
 
